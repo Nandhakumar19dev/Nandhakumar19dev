@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nandhakumar</h1>
-<h3 align="center">A passionate Backend Developer <br>from Chennai, Tamilnadu, India</h3>
+<h3 align="center">Passionate Software Engineer from Chennai, Tamilnadu, India</h3>
+<h5 align="center">I love Django web development, Problem solving, Learning new technologies...</h5>
 <br>
 <br>
 <h3 align="center">Connect with me:</h3><br>
